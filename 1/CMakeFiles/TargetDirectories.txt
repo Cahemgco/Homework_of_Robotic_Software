@@ -1,3 +1,0 @@
-/home/shi/homework/1/CMakeFiles/rebuild_cache.dir
-/home/shi/homework/1/CMakeFiles/show_pic.dir
-/home/shi/homework/1/CMakeFiles/edit_cache.dir
