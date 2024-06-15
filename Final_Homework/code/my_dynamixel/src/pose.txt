@@ -1,0 +1,4 @@
+{"position_x": 0.246, "position_y": 0.401, "position_z": 0.0, "orien_x": 0.0, "orien_y": 0.0, "orien_z": -0.064, "orien_w": 0.998}
+{"position_x": 1.93019092922321, "position_y": 0.4680601277001963, "position_z": 0.0, "orien_x": 0.0, "orien_y": 0.0, "orien_z": 0.026516803661101748, "orien_w": 0.9996483677391759}
+{"position_x": 2.122666596941951, "position_y": -1.0353326120040989, "position_z": 0.0, "orien_x": 0.0, "orien_y": 0.0, "orien_z": -0.7605136965394675, "orien_w": 0.6493218904178996}
+{"position_x": 3.626899038439156, "position_y": -1.2620045198000869, "position_z": 0.0, "orien_x": 0.0, "orien_y": 0.0, "orien_z": -0.11484969710192426, "orien_w": 0.9933828804019104}
